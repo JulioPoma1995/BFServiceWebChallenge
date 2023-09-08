@@ -1,0 +1,18 @@
+{
+  "id": 12345,
+  "category": {
+    "id": 1,
+    "name": "pequeño"
+  },
+  "name": "Bozzy",
+  "photoUrls": [
+    "nohayfoto"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Elmejor"
+    }
+  ],
+  "status": "available"
+}

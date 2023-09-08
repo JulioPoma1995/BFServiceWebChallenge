@@ -1,0 +1,6 @@
+05:49:25.883 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+05:49:26.873 [main]  ERROR com.intuit.karate - src/test/resources/features/APITest.feature:4
+Given Declaro la base de URL https://petstore.swagger.io
+no step-definition method match found for: Declaro la base de URL https://petstore.swagger.io
+src/test/resources/features/APITest.feature:4
+05:49:27.235 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/features/APITest.feature
